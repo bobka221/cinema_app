@@ -1,5 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
+import React, {Component} from 'react';
+import Cinema from './components/Cinema';
 
 function App() {
   return (
